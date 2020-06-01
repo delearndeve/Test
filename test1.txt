@@ -1,1 +1,3 @@
 print lalalala
+new
+new
